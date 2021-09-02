@@ -28,14 +28,16 @@ Os projetos aqui presentes são desenvolvidos com base em áreas de interesse pe
 
  
 
-# Referências
+# Projetos
 
-- Referências utilizadas no decorrer do projeto.
+ 
 
-[[https://towardsdatascience.com/dynamic-cryptocurrency-trading-backtesting-platform-python-219dfcd7421e](https://towardsdatascience.com/dynamic-cryptocurrency-trading-backtesting-platform-python-219dfcd7421e)](https://www.notion.so/https-towardsdatascience-com-dynamic-cryptocurrency-trading-backtesting-platform-python-219dfcd742-eb894aef1a504d6fb363e3854f870350)
+▪️Finanças e investimentos - Bitcoin 
+
+:
 
 # Dataframe
 
-- Conjunto de dados do projeto de finanças e investimento - bitcoin.
+- Conjunto de dados do projeto.
 
 [Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data)
