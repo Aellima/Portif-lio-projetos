@@ -34,6 +34,9 @@ Os projetos aqui presentes são desenvolvidos com base em áreas de interesse pe
 
 ▪️Finanças e investimentos - Bitcoin 
 
+Acesso ao projeto 
+[Acesso ao projeto](https://github.com/Aellima/Portif-lio-projetos/tree/main/Finan%C3%A7as%20e%20Investimentos%20-%20bitcoin)
+
 :
 
 # Dataframe
